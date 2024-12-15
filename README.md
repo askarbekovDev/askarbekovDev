@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p align-text="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,scss,tailwind,git,github,vscode,figma,vite,webpack,notion,npm,replit" />
-</div>
+</p>
 
 
 
